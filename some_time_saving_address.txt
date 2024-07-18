@@ -1,0 +1,49 @@
+D:\TAI_LIEU\ET-E9\Program\Naitei\Intern\project\001.First_program
+/mnt/d/TAI_LIEU/ET-E9/Program/Naitei/Intern/project/001.First_program
+
+
+python example file:
+
+"""
+...
+author: Tran Ba Thanh
+date: dd/mm/yy
+
+remaining proplem:
+	- 
+
+"""
+
+# import
+import sys
+
+# exception
+
+# class definition
+		
+
+# function definition
+
+	
+
+# main program
+def main():
+	try:
+		
+
+	except Exception as e:
+		print(f"An error occurred: {e}")
+		exit_program()
+#end main
+
+def exit_program():
+    print("Exiting the program...")
+    sys.exit(0)
+
+if __name__ == "__main__":
+    main()
+
+
+"""OUTPUT:
+
+"""
