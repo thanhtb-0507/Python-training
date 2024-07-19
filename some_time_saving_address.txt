@@ -1,6 +1,7 @@
 D:\TAI_LIEU\ET-E9\Program\Naitei\Intern\project\001.First_program
 /mnt/d/TAI_LIEU/ET-E9/Program/Naitei/Intern/project/001.First_program
 
+tran.ba.thanh-b@sun-asterisk.com
 
 python example file:
 
@@ -47,3 +48,8 @@ if __name__ == "__main__":
 """OUTPUT:
 
 """
+
+git add .
+git status
+git push
+git pull
